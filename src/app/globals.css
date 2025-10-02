@@ -119,3 +119,40 @@ button:hover {
 .MyCollection {
   margin-bottom: 16px;
 }
+
+.koleksi {
+  margin-top: 24px;
+  padding: 4px 6px
+}
+
+.btnSend {
+  padding: 8px 12px;
+}
+
+.bungkusComment {
+  padding: 16px;
+}
+
+.judulComment {
+  margin-bottom: 8px;
+}
+
+.paddingComment {
+  padding: 8px;
+}
+
+.commentBox {
+  margin-bottom: 16px;
+}
+
+.BoxCom {
+  padding: 16px;
+}
+
+.paddingComment {
+  padding: 16px;
+}
+
+.pGrid {
+  padding: 8px 0px;
+}
